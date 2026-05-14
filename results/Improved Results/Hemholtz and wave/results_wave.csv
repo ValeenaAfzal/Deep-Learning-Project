@@ -1,0 +1,5 @@
+ic_type,init_loss,final_loss,reduction_pct,steps,time_min
+A2_default,85955296,16236,99.98,5000,67
+default,71598,423,99.4,500,0.2
+gaussian,56604,116,99.8,500,0.2
+double_sin,70266,492,99.3,500,0.2
