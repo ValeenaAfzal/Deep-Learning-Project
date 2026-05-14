@@ -4,4 +4,4 @@ src/Reproduced Code/Image, Audio, Video/.vscode
 
 
 logs/
-checkpoints/
+#checkpoints/
